@@ -1,4 +1,4 @@
-# she-inspire-her
+# IT-Career-Quiz
 
 ## Project setup
 ```
